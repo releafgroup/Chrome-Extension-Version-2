@@ -1,7 +1,7 @@
 /*THIS CODE IS FOR GETTING THE NUMBER OF IMAGES FROM PHP*/
 
    // INCLUDE JQUERY LIBRARY: OTHERWISE THIS WON'T WORK...
-   // SURE YOU CAN ALSO DO ALL THESE IN PURE JAVASCRIPT, BUT WHY RE-INVENT THE WHEEL? :-)
+   // SURE YOU CAN ALSO DO ALL THIS IN PURE JAVASCRIPT, BUT WHY RE-INVENT THE WHEEL? :-)
 
   /* var quotes = [["Peace is costly but it is worth the expense.","Kenyan proverb"],
                  ["War has no eyes.", "Swahili saying"],
